@@ -1,7 +1,8 @@
 import Foundation
 
 public class Pod2MessagePrinter {
-    func printMessage() {
+    public init() { }
+    public func printMessage() {
         NSLog("message from Pod2")
     }
 }
