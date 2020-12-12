@@ -1,0 +1,16 @@
+PODS:
+  - Pod2 (0.1.0)
+
+DEPENDENCIES:
+  - Pod2 (from `../`)
+
+EXTERNAL SOURCES:
+  Pod2:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Pod2: 9d84326968861443e066be4e31f4a1f67b2c1f50
+
+PODFILE CHECKSUM: c4d63c7edf31f36c253837043fa9c5dd22dcb66a
+
+COCOAPODS: 1.8.4

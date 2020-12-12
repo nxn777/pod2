@@ -1,0 +1,22 @@
+{
+  "name": "Pod2",
+  "version": "0.1.0",
+  "summary": "A short description of Pod2.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Nikita Nemtin/Pod2",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Nikita Nemtin": "nv.nemtin@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Nikita Nemtin/Pod2.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "Pod2/Classes/**/*"
+}
